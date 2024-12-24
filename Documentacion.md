@@ -1,6 +1,6 @@
 # Ejercicios de C#: Desarrollo de Aplicaciones
 
-Este repositorio contiene una colección de ejercicios prácticos desarrollados en **C#**. Los ejercicios abarcan tanto programas de **Consola** como aplicaciones de **Windows Forms (WF)**, organizados en diferentes categorías y niveles de dificultad. El objetivo principal es proporcionar ejemplos claros y funcionales para el aprendizaje y la práctica del desarrollo en C#.
+Este repositorio contiene una colección de ejercicios prácticos desarrollados en **C#**, Del **Resultado de Aprendizaje (RA)** 1 & 2 del modulo **Desarrollo de Aplicaciones Informáticas**. Los ejercicios abarcan tanto programas de **Consola** como aplicaciones de **Windows Forms (WF)**, organizados en diferentes categorías y niveles de dificultad. El objetivo principal es proporcionar ejemplos claros y funcionales para el aprendizaje y la práctica del desarrollo en C#.
 
 ---
 
