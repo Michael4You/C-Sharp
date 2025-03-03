@@ -59,4 +59,4 @@ Para ejecutar los ejercicios en este repositorio necesitas:
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/TuUsuario/C-Sharp.git
-   cd TuRepositorio
+   cd C-Sharp
